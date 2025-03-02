@@ -1,2 +1,9 @@
-# Wow-chips
-Developed and design a web page using the frontend technologies like HTML, CSS, JavaScript. A fully responsive landing page of a Chips advertisement.
+# WEB_CHIPS
+# Responsive Chips Website
+
+- Responsive Chips Website Design Using HTML CSS And JavaScript
+- Contains animations when scrolling.
+- Smooth scrolling in each section.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+
+
